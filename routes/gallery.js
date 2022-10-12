@@ -5,7 +5,6 @@ const router = express.Router()
 const fetch = require('node-fetch')
 const fs = require('fs')
 
-console.log(images.images)
 
 // router.get('/', imageView)
 
